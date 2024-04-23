@@ -1,0 +1,6 @@
+fastapi==0.110.2
+paddleocr==2.7.3
+paddlepaddle==2.6.1
+uvicorn==0.29.0
+
+
